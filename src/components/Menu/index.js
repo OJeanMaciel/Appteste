@@ -6,12 +6,12 @@ import './Menu.css';
 
 function Menu() {
     return (
-        <nav className="Menu">
+        {/* <nav className="Menu">
             <Link to="/">              
             <img className="Logo" src={Logo} alt="LF Oliveira logo" />
             </Link>
 
-        </nav>
+        </nav> */}
     );
 }
 
