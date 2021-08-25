@@ -1,0 +1,202 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Dúvidas Bees",
+      "cor": "#6BD1FF",
+      "Link_extra": {
+        "text": "Dúvidas do parceiro bees",
+        "url": "https://www.youtube.com/c/ParceiroAmbevOficial/featured"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Brahmosidade",
+      "cor": "#00C86F",
+      "Link_extra": {
+        "text": "Brahmosidade",
+        "url": "https://www.youtube.com/channel/UCdWGP_DXcVkPPCHnz3u-LTQ"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Desafios",
+      "cor": "#9cd33b"
+    },
+    {
+      "id": 4,
+      "titulo": "Outros recados Bees!",
+      "cor": "#FF0000"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Como consultar meus pedidos anteriores?",
+      "url": "https://www.youtube.com/watch?v=eDipaNu70fg"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Faça parte do Pontos e resgate produtos grátis!",
+      "url": "https://www.youtube.com/watch?v=48P9CfcL0fA"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Como saber quantos pontos tenho no Parceiro?",
+      "url": "https://www.youtube.com/watch?v=sQog_MXASyk"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Acesse a aba Ganhe + Pontos e complete as tarefas!",
+      "url": "https://www.youtube.com/watch?v=eRk_UYUWx_o"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Como baixar o Parceiro Bees?",
+      "url": "https://www.youtube.com/watch?v=VMusboWcyAI"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Habilite as notificações do Parceiro Bees!",
+      "url": "https://www.youtube.com/watch?v=iMI0R5rTh80"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Veja como é fácil gerenciar sua conta no Parceiro Bees!",
+      "url": "https://www.youtube.com/watch?v=BJ6Gsx3hlvs"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Adicione ou troque uma conta no aplicativo Parceiro Bees!",
+      "url": "https://www.youtube.com/watch?v=VpTvXX698_Y"
+    },
+    {
+      "titulo": "Como recuperar sua senha no Parceiro Bees?",
+      "url": "https://www.youtube.com/watch?v=lLRbp700AAw",
+      "categoriaId": 1,
+      "id": 28
+    },
+    {
+      "titulo": "Como fazer uma compra baseada nos meus pedidos anteriores?",
+      "url": "https://www.youtube.com/watch?v=PNK1pvJRG00",
+      "categoriaId": 1,
+      "id": 29
+    },
+    {
+      "titulo": "Onde vejo as promoções do Parceiro Bees?",
+      "url": "https://www.youtube.com/watch?v=u2Xuhjon3cU",
+      "categoriaId": 1,
+      "id": 30
+    },
+    {
+      "titulo": "Cancele o seu pedido pelo Parceiro Bees",
+      "url": "https://www.youtube.com/watch?v=KQ_M8CpjQ0c",
+      "categoriaId": 1,
+      "id": 31
+    },
+    {
+      "titulo": "Avalie a sua entrega no Parceiro Bees!",
+      "url": "https://www.youtube.com/watch?v=ccUSJ3DD9wE",
+      "categoriaId": 1,
+      "id": 32
+    },
+    {
+      "titulo": "Participe do programa de Pontos do Parceiro!",
+      "url": "https://www.youtube.com/watch?v=iFn3gn3J9XU",
+      "categoriaId": 1,
+      "id": 33
+    },
+    {
+      "titulo": "Resgate seus pontos no Parceiro!",
+      "url": "https://www.youtube.com/watch?v=a6fwC9syrW4",
+      "categoriaId": 1,
+      "id": 34
+    },
+    {
+      "titulo": "Solicite suporte pelo Parceiro!",
+      "url": "https://www.youtube.com/watch?v=AI9UHbMrh0w",
+      "categoriaId": 1,
+      "id": 35
+    },
+    {
+      "titulo": "Verifique os serviços financeiros para o seu negócio!",
+      "url": "https://www.youtube.com/watch?v=3hsKGlBFJlE",
+      "categoriaId": 1,
+      "id": 36
+    },
+    {
+      "titulo": "Resgate seus pontos no Parceiro!",
+      "url": "https://www.youtube.com/watch?v=a6fwC9syrW4",
+      "categoriaId": 1,
+      "id": 37
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Dia do Churrasco - Brahmosidade",
+      "url": "https://www.youtube.com/watch?v=asDov-W1d8w"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Futebol com Brahmosidade | Promoção Parceiro BEES",
+      "url": "https://www.youtube.com/watch?v=n08q6RIDgX0"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Futebol com Brahmosidade | Ganhadores Promoção Parceiro BEES",
+      "url": "https://www.youtube.com/watch?v=OKW6u8vLqEE"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Quer ganhar mais Pontos? Execute as tarefas disponíveis no Bees!",
+      "url": "https://www.youtube.com/watch?v=pfUjqCgYA-Y"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Aproveite a oportunidade de garantir Budweiser de graça no seu negócio!",
+      "url": "https://www.youtube.com/watch?v=4ge72T3Pj0k"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "O Parceiro Bees se preocupa com você e com nossos colaboradores!",
+      "url": "https://www.youtube.com/watch?v=Ac7N6dpqUrI&t=4s"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Conheça as Parceiras que estão por trás do Bees!",
+      "url": "https://www.youtube.com/watch?v=WSbSXJ1BGGw"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "COISA DE MÃE É COISA NOSSA!",
+      "url": "https://www.youtube.com/watch?v=EtNSVmXEFdo&t=7s"
+    },
+    {
+      "id": 9,
+      "categoriaId": 4,
+      "titulo": "Dá uma olhada na surpresa que a Anitta preparou pra você!",
+      "url": "https://www.youtube.com/watch?v=SUabDcOOnBM"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Promoção 100 anos de Guaraná no Bees!",
+      "url": "https://www.youtube.com/watch?v=qA-Y9-rzvF8"
+    }
+  ]
+}
